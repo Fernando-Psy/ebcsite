@@ -36,3 +36,14 @@ header .container {
     align-items: center;
     justify-content: space-between;
 }
+
+section .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin-top: 10px;
+}
